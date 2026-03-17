@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-alphoder-181717?style=for-the-badge&logo=github)](https://github.com/alphoder)
 [![Email](https://img.shields.io/badge/Email-vedantsingh160905-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
-[![Profile Views](https://komarev.com/ghpvc/?username=alphoder&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/alphoder)
+[![Profile Views](https://komarev.com/ghpvc/?username=alphoder&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)]
 
 </div>
 
